@@ -52,5 +52,5 @@ jobs:
       with:
         app-name: 'vjecproject'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_aaf9ba8ec5f94b61b30208a9b4f3cbeb }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_12d75a26596d4740a4be45a8d79e6caa }}
         package: .
